@@ -1,0 +1,86 @@
+#logo {
+  height: 55px;
+}
+
+#bannerarea {
+  background-color: rgba(19, 19, 49, 0.603);
+  color: whitesmoke;
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+  padding-bottom: 5px;
+  margin-top: 10px;
+  border-radius: 15px;
+  min-width: fit-content;
+}
+
+#pic {
+  width: 28rem;
+  border-radius: 10px;
+}
+
+#thecomment {
+  border: solid 1px;
+  padding: 5px;
+  border-radius: 10px;
+  box-shadow: -2px 3px 6px 0px #374164;
+  color: wheat;
+}
+
+#foot {
+  text-align: center;
+  color: whitesmoke;
+  border: solid dimgray;
+  padding: 6px;
+  border-radius: 7px;
+  background-color: rgba(0, 0, 0, 0.678);
+}
+
+#img {
+  height: 30px;
+}
+
+#title {
+  color: rgb(3, 47, 33);
+  border-bottom: darkslategrey solid thick;
+  margin-right: 45%;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.controlform {
+  display: inline;
+}
+
+.controllink a {
+  font-size: 16px;
+  text-decoration: none;
+  padding: 4px 10px;
+  border-radius: 4px;
+  color: #f8f5f5;
+  background: green;
+}
+
+.controlbutton {
+  font-size: 16px;
+  text-decoration: none;
+  padding: 4px 10px;
+  border-radius: 4px;
+  color: white;
+  border: none;
+}
+
+.warning {
+color: rgb(99, 6, 6);
+
+}
+
+.delete {
+  background: red;
+  text-decoration: none;
+}
+a {
+    color: #f8f9fa;
+    text-decoration: none;
+    background-color: transparent;
+}
